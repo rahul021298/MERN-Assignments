@@ -1,0 +1,11 @@
+﻿body
+{
+}
+img {
+	height:20px;
+	width:20px;
+}
+
+.image-border{
+border: 5px solid #000;
+}

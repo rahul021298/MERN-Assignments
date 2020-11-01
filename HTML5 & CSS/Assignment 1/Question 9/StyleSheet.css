@@ -1,0 +1,11 @@
+﻿table{
+border-spacing:0px;
+}
+td{
+	border: 1px black;
+	border-style:outset;
+	width:60px;
+}
+.width{
+	height:40px;
+}

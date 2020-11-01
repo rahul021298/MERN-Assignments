@@ -1,0 +1,33 @@
+﻿
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input[type=radio] {
+	width: 30px;
+	margin:10px;
+}
+
+input[type=checkbox] {
+	width: 30px;
+	margin:10px;
+}
+
+.container{
+	margin:10% 30%;
+	border:2px solid black;
+	padding:10px 10px;
+}
+
+input[type=select] {
+	width: 100%;
+	margin:10%;
+}
+
+.bg{
+	
+}

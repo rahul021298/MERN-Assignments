@@ -1,0 +1,12 @@
+﻿table{
+	border:1px solid #00ff00;
+
+}
+td{
+	border:1px solid #00ff00;
+}
+th{
+	background-color:#009900;
+	color:#ffffff;
+	border:1px solid black;
+}
