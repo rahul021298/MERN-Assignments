@@ -1,0 +1,21 @@
+
+.cover-image{
+	width:40%;
+	padding:10px 30%;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+.person{
+	margin:0 10%;
+}
+
+body{
+	background-color:#ff9999;
+}
+
+hr.new1 {
+  border: 1px solid red;
+}
